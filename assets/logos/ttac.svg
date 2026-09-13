@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" fill="none">
+  <!-- Background Card -->
+  <rect width="200" height="240" rx="16" fill="#ffffff"/>
+  <rect x="1" y="1" width="198" height="238" rx="15" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- TTAC Emblem Badge -->
+  <g transform="translate(42, 24)">
+    <!-- Cyan/Blue Medallion -->
+    <circle cx="58" cy="62" r="54" fill="#042f2e" stroke="#0d9488" stroke-width="2.5"/>
+    <circle cx="58" cy="62" r="48" fill="#115e59" opacity="0.6"/>
+
+    <!-- 2D Barcode / QR matrix styling -->
+    <g transform="translate(34, 38)" fill="#2dd4bf">
+      <!-- QR corner square 1 -->
+      <rect x="0" y="0" width="14" height="14" rx="2" fill="none" stroke="#2dd4bf" stroke-width="2.5"/>
+      <rect x="3.5" y="3.5" width="7" height="7" rx="1" fill="#2dd4bf"/>
+      
+      <!-- QR corner square 2 -->
+      <rect x="34" y="0" width="14" height="14" rx="2" fill="none" stroke="#2dd4bf" stroke-width="2.5"/>
+      <rect x="37.5" y="3.5" width="7" height="7" rx="1" fill="#2dd4bf"/>
+      
+      <!-- QR corner square 3 -->
+      <rect x="0" y="34" width="14" height="14" rx="2" fill="none" stroke="#2dd4bf" stroke-width="2.5"/>
+      <rect x="3.5" y="37.5" width="7" height="7" rx="1" fill="#2dd4bf"/>
+
+      <!-- Matrix pattern dots -->
+      <rect x="18" y="2" width="4" height="4" fill="#5eead4"/>
+      <rect x="26" y="6" width="4" height="4" fill="#5eead4"/>
+      <rect x="18" y="18" width="12" height="12" rx="2" fill="#14b8a6"/>
+      <rect x="34" y="22" width="4" height="4" fill="#5eead4"/>
+      <rect x="22" y="36" width="4" height="4" fill="#5eead4"/>
+      <rect x="38" y="36" width="10" height="10" rx="1" fill="#5eead4"/>
+    </g>
+
+    <!-- Verification Checkmark Ring -->
+    <g transform="translate(68, 72)">
+      <circle cx="16" cy="16" r="16" fill="#10b981" stroke="#ffffff" stroke-width="2"/>
+      <path d="M10 16 L14 20 L22 12" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- Typography -->
+  <text x="100" y="178" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="900" font-size="15" fill="#0f766e" text-anchor="middle" letter-spacing="1">TTAC.IR</text>
+  <text x="100" y="196" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="800" font-size="11" fill="#0f172a" text-anchor="middle">سامانه کنترل اصالت دارو</text>
+  <text x="100" y="214" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="600" font-size="10" fill="#0d9488" text-anchor="middle">استعلام کد رهگیری ۱۶ رقمی</text>
+  <text x="100" y="228" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="500" font-size="8.5" fill="#64748b" text-anchor="middle">سازمان غذا و دارو</text>
+</svg>

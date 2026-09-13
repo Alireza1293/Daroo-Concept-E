@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" fill="none">
+  <!-- Background Card -->
+  <rect width="200" height="240" rx="16" fill="#ffffff"/>
+  <rect x="1" y="1" width="198" height="238" rx="15" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- Apple & Seal Container -->
+  <g transform="translate(42, 26)">
+    <!-- Outer green decorative glow ring -->
+    <circle cx="58" cy="62" r="54" fill="#f0fdf4" stroke="#86efac" stroke-width="2"/>
+    
+    <!-- Apple Body -->
+    <g transform="translate(18, 18)">
+      <!-- Leaf -->
+      <path d="M42 6 C50 0, 58 2, 60 10 C52 14, 44 12, 42 6 Z" fill="#15803d"/>
+      <!-- Stem -->
+      <path d="M40 8 C40 14, 38 18, 38 22" stroke="#166534" stroke-width="3" stroke-linecap="round"/>
+      
+      <!-- Apple Left and Right lobes -->
+      <path d="M38 22 C24 16, 4 22, 4 45 C4 68, 20 80, 38 82 C56 80, 72 68, 72 45 C72 22, 52 16, 38 22 Z" fill="url(#apple-grad)"/>
+      
+      <!-- Blue Drop (Health / Purity symbol) inside apple -->
+      <path d="M38 36 C38 36, 26 50, 26 58 C26 65, 31 70, 38 70 C45 70, 50 65, 50 58 C50 50, 38 36, 38 36 Z" fill="#0284c7"/>
+      <circle cx="35" cy="55" r="3" fill="#bae6fd" opacity="0.8"/>
+      
+      <!-- Cross medical mark inside -->
+      <path d="M38 46 L38 58 M32 52 L44 52" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Typography -->
+  <text x="100" y="184" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="800" font-size="12" fill="#0f172a" text-anchor="middle">نشان ایمنی و سلامت</text>
+  <text x="100" y="202" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="700" font-size="11" fill="#15803d" text-anchor="middle">سازمان غذا و دارو</text>
+  <text x="100" y="220" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="500" font-size="9" fill="#64748b" text-anchor="middle">وزارت بهداشت و درمان</text>
+
+  <defs>
+    <linearGradient id="apple-grad" x1="4" y1="20" x2="72" y2="82" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="60%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#16a34a"/>
+    </linearGradient>
+  </defs>
+</svg>

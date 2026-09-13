@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" fill="none">
+  <!-- Background Card -->
+  <rect width="200" height="240" rx="16" fill="#ffffff"/>
+  <rect x="1" y="1" width="198" height="238" rx="15" stroke="#e2e8f0" stroke-width="2"/>
+  
+  <!-- Outer Decorative Ring -->
+  <circle cx="100" cy="95" r="72" fill="#f0f9ff" stroke="#0284c7" stroke-width="2.5" stroke-dasharray="4 2"/>
+  <circle cx="100" cy="95" r="64" fill="#ffffff" stroke="#0369a1" stroke-width="1.5"/>
+
+  <!-- Official e-Namad Stylized 'e' Emblem -->
+  <g transform="translate(48, 45)">
+    <!-- Primary blue spiral / ribbon -->
+    <path d="M52 10 C32 10, 16 26, 16 48 C16 70, 32 86, 54 86 C68 86, 80 78, 86 66 L72 66 C68 72, 61 76, 53 76 C38 76, 28 64, 28 50 L88 50 C89 47, 89 44, 89 42 C89 24, 73 10, 52 10 Z M28 42 C30 30, 40 20, 52 20 C64 20, 75 29, 76 42 L28 42 Z" fill="url(#enamad-grad)"/>
+    <!-- Central dynamic swoop -->
+    <path d="M48 30 C40 30, 34 36, 33 44 L63 44 C62 36, 56 30, 48 30 Z" fill="#0284c7"/>
+    <path d="M38 60 C42 66, 50 68, 56 65 L60 74 C50 79, 38 75, 31 66 Z" fill="#0369a1"/>
+  </g>
+
+  <!-- 5 Golden Stars Rating -->
+  <g transform="translate(40, 172)">
+    <!-- Star 1 -->
+    <path d="M12 0 L15.5 7.5 L24 8.5 L17.5 14.5 L19.5 23 L12 18.5 L4.5 23 L6.5 14.5 L0 8.5 L8.5 7.5 Z" fill="#eab308" transform="translate(0, 0) scale(0.8)"/>
+    <!-- Star 2 -->
+    <path d="M12 0 L15.5 7.5 L24 8.5 L17.5 14.5 L19.5 23 L12 18.5 L4.5 23 L6.5 14.5 L0 8.5 L8.5 7.5 Z" fill="#eab308" transform="translate(24, 0) scale(0.8)"/>
+    <!-- Star 3 -->
+    <path d="M12 0 L15.5 7.5 L24 8.5 L17.5 14.5 L19.5 23 L12 18.5 L4.5 23 L6.5 14.5 L0 8.5 L8.5 7.5 Z" fill="#eab308" transform="translate(48, 0) scale(0.8)"/>
+    <!-- Star 4 -->
+    <path d="M12 0 L15.5 7.5 L24 8.5 L17.5 14.5 L19.5 23 L12 18.5 L4.5 23 L6.5 14.5 L0 8.5 L8.5 7.5 Z" fill="#eab308" transform="translate(72, 0) scale(0.8)"/>
+    <!-- Star 5 -->
+    <path d="M12 0 L15.5 7.5 L24 8.5 L17.5 14.5 L19.5 23 L12 18.5 L4.5 23 L6.5 14.5 L0 8.5 L8.5 7.5 Z" fill="#eab308" transform="translate(96, 0) scale(0.8)"/>
+  </g>
+
+  <!-- Official Typography -->
+  <text x="100" y="206" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="800" font-size="12" fill="#0f172a" text-anchor="middle">نماد اعتماد الکترونیکی</text>
+  <text x="100" y="222" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="500" font-size="9" fill="#64748b" text-anchor="middle">وزارت صنعت، معدن و تجارت</text>
+
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="enamad-grad" x1="16" y1="10" x2="88" y2="86" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="50%" stop-color="#0369a1"/>
+      <stop offset="100%" stop-color="#075985"/>
+    </linearGradient>
+  </defs>
+</svg>

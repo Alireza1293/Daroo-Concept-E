@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" fill="none">
+  <!-- Background Card -->
+  <rect width="200" height="240" rx="16" fill="#ffffff"/>
+  <rect x="1" y="1" width="198" height="238" rx="15" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- Bowl of Hygieia / Pharmacy Caduceus Emblem -->
+  <g transform="translate(42, 24)">
+    <circle cx="58" cy="62" r="54" fill="#f8fafc" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="58" cy="62" r="48" fill="#eff6ff"/>
+
+    <!-- Chalice / Mortar & Pestle / Bowl of Hygieia -->
+    <g transform="translate(32, 28)">
+      <!-- Serpent -->
+      <path d="M26 10 C34 4, 42 12, 38 20 C34 28, 20 22, 22 34 C24 42, 36 38, 32 50 C30 54, 26 56, 26 56" fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="27" cy="11" r="2.5" fill="#1d4ed8"/>
+      <!-- Chalice Bowl -->
+      <path d="M12 40 C12 60, 40 60, 40 40 Z" fill="#1e40af"/>
+      <!-- Chalice Stem & Base -->
+      <rect x="24" y="58" width="4" height="14" fill="#1e40af"/>
+      <rect x="16" y="70" width="20" height="4" rx="2" fill="#1e40af"/>
+      <!-- Cross medical emblem in center -->
+      <path d="M26 44 L26 52 M22 48 L30 48" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Typography -->
+  <text x="100" y="184" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="800" font-size="12" fill="#0f172a" text-anchor="middle">پروانه رسمی داروخانه</text>
+  <text x="100" y="202" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="700" font-size="11" fill="#1d4ed8" text-anchor="middle">نظارت دکتر داروساز</text>
+  <text x="100" y="220" font-family="'Vazirmatn', Tahoma, Arial, sans-serif" font-weight="500" font-size="9" fill="#64748b" text-anchor="middle">معاونت غذا و داروی دانشگاه علوم پزشکی</text>
+</svg>
