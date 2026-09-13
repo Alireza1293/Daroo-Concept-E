@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60" fill="none">
+    <!-- Rossmann Green Leaf & Cross -->
+    <g transform="translate(12, 12)">
+      <rect x="3" y="3" width="28" height="28" rx="7" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+      <!-- Leaf Cross -->
+      <path d="M17 7 C17 17, 27 17, 27 17 C27 27, 17 27, 17 27 C17 17, 7 17, 7 17 C7 7, 17 7, 17 7 Z" fill="#059669"/>
+      <circle cx="17" cy="17" r="2.5" fill="#ffffff"/>
+    </g>
+    <!-- altapharma Modern Wordmark -->
+    <text x="52" y="31" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="900" font-size="20" fill="#047857" letter-spacing="-0.3">altapharma</text>
+    <!-- Rossmann indicator -->
+    <rect x="52" y="37" width="58" height="11" rx="3" fill="#f1f5f9"/>
+    <text x="56" y="45.5" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="800" font-size="6.5" fill="#475569" letter-spacing="0.5">ROSSMANN QUALITÄT</text>
+  </svg>

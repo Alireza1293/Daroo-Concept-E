@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60" fill="none">
+    <!-- Classic German Heritage Sun & Leaf Seal -->
+    <g transform="translate(14, 11)">
+      <ellipse cx="16" cy="18" rx="15" ry="17" fill="#fef9c3" stroke="#eab308" stroke-width="1.5"/>
+      <!-- Abbey / Leaf Icon -->
+      <path d="M16 7 L21 16 L11 16 Z" fill="#15803d"/>
+      <path d="M16 16 L16 27 M11 20 L21 20 M12 25 L20 25" stroke="#15803d" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="16" cy="11" r="1.5" fill="#fef9c3"/>
+    </g>
+    <!-- Abtei Traditional Wordmark -->
+    <text x="52" y="32" font-family="Georgia, Cambria, serif" font-weight="900" font-size="22" fill="#14532d" letter-spacing="0.5">Abtei</text>
+    <!-- Red quality badge -->
+    <rect x="115" y="19" width="34" height="13" rx="3" fill="#dc2626"/>
+    <text x="132" y="28.5" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="800" font-size="6.5" fill="#ffffff" text-anchor="middle">SEIT 1897</text>
+    <text x="52" y="44" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="700" font-size="7" fill="#64748b" letter-spacing="1">DEUTSCHE GESUNDHEITSKRAFT</text>
+  </svg>

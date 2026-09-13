@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60" fill="none">
+    <!-- French Clinical Teal Cross/Droplet -->
+    <g transform="translate(14, 13)">
+      <rect x="2" y="2" width="28" height="28" rx="8" fill="#e0f2fe"/>
+      <path d="M16 6 L16 26 M6 16 L26 16" stroke="#00838f" stroke-width="4.5" stroke-linecap="round"/>
+      <circle cx="16" cy="16" r="3.5" fill="#ffffff"/>
+      <circle cx="16" cy="16" r="1.8" fill="#00838f"/>
+    </g>
+    <!-- DUCRAY Wordmark -->
+    <text x="54" y="31" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="900" font-size="20" fill="#00838f" letter-spacing="1">DUCRAY</text>
+    <!-- Subtitle Bar -->
+    <rect x="54" y="37" width="134" height="11" rx="3" fill="#f0fdfa"/>
+    <text x="58" y="45.5" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="700" font-size="6.5" fill="#0f766e" letter-spacing="0.8">LABORATOIRES DERMATOLOGIQUES</text>
+  </svg>

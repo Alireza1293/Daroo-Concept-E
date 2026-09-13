@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60" fill="none">
+    <g transform="translate(10, 8)">
+      <!-- Royal Crown Shield -->
+      <path d="M4 16 L9 26 L25 26 L30 16 L22 20 L17 11 L12 20 Z" fill="#003566"/>
+      <circle cx="17" cy="8" r="2.5" fill="#e11d48"/>
+      <circle cx="8" cy="12" r="2" fill="#f59e0b"/>
+      <circle cx="26" cy="12" r="2" fill="#f59e0b"/>
+      <path d="M9 28 C9 35 17 39 17 39 C17 39 25 35 25 28 L25 26 L9 26 Z" fill="#003566"/>
+      <path d="M12 28 C12 33 17 36 17 36 C17 36 22 33 22 28 L22 27 L12 27 Z" fill="#ffffff"/>
+      <path d="M17 28 L17 34 M14 31 L20 31" stroke="#003566" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+    <text x="50" y="32" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="900" font-size="20" fill="#003566" letter-spacing="0.5">VITABIOTICS</text>
+    <circle cx="75" cy="17" r="2.5" fill="#e11d48"/>
+    <circle cx="147" cy="17" r="2.5" fill="#e11d48"/>
+    <text x="50" y="44" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="700" font-size="7" fill="#64748b" letter-spacing="1.2">SCIENCE OF HEALTHY LIVING</text>
+  </svg>

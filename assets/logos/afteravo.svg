@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60" fill="none">
+    <!-- USA Botanical Shield & Monogram A -->
+    <g transform="translate(12, 11)">
+      <rect x="3" y="3" width="28" height="28" rx="8" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+      <!-- Stylized A with Leaf -->
+      <path d="M17 8 L24 24 L20 24 L18.5 20 L15.5 20 L14 24 L10 24 Z" fill="#1e40af"/>
+      <path d="M17 12 L16.2 17 L17.8 17 Z" fill="#ffffff"/>
+      <!-- Emerald leaf swoosh -->
+      <path d="M17 15 C21 15, 25 11, 26 8 C22 8, 18 12, 17 15 Z" fill="#10b981"/>
+    </g>
+    <!-- AFTERAVO Wordmark -->
+    <text x="52" y="30" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="900" font-size="18" fill="#1e3a8a" letter-spacing="0.8">AFTERAVO</text>
+    <!-- USA Tag -->
+    <rect x="52" y="36" width="30" height="11" rx="2" fill="#1e40af"/>
+    <text x="67" y="44.5" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="800" font-size="6.5" fill="#ffffff" text-anchor="middle">USA</text>
+    <text x="88" y="45" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-weight="700" font-size="7" fill="#64748b" letter-spacing="0.8">LAB ESSENTIALS</text>
+  </svg>
